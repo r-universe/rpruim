@@ -13,3 +13,8 @@
 	url = https://github.com/rpruim/lock5withr
 	shallow = true
 	registered = true
+[submodule "NHANES"]
+	path = NHANES
+	url = https://github.com/cran/NHANES
+	shallow = true
+	registered = true
