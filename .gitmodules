@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "fastR2"]
 	path = fastR2
 	url = https://github.com/rpruim/fastr2
-	shallow = true
-	registered = true
 [submodule "Lock5withR"]
 	path = Lock5withR
 	url = https://github.com/rpruim/lock5withr
-	shallow = true
-	registered = true
 [submodule "NHANES"]
 	path = NHANES
 	url = https://github.com/cran/NHANES
-	shallow = true
-	registered = true
