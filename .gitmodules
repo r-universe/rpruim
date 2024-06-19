@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "Lock5withR"]
-	path = Lock5withR
-	url = https://github.com/rpruim/lock5withr
 [submodule "NHANES"]
 	path = NHANES
 	url = https://github.com/cran/NHANES
